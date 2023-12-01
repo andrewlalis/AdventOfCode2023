@@ -1,2 +1,5 @@
-# AdventOfCode2023
-My solutions for the advent of code!
+# Advent of Code 2023
+
+This repository has my solutions for this year's Advent of Code challenges. Each day's challenge will be placed into a directory named `day_N`, where `N` is the day of the challenge. Each day will have a solution program named `solution.*` (with the filetype depending on which programming language I used).
+
+For D programs, you can simply run them with `rdmd solution.d`.
